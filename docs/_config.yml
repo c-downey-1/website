@@ -34,6 +34,8 @@ navigation:
   - title: Pages
     url: /pages
 
+permalink: /blog/:title/
+
 # Build settings
 theme: minima
 plugins:
