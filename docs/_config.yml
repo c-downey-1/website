@@ -26,6 +26,14 @@ url: "https://c-downey-1.github.io"
 twitter_username: "casey"
 github_username: "Test"
 
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Pages
+    url: /pages
+
 # Build settings
 theme: minima
 plugins:
