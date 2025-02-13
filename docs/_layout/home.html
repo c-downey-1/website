@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="intro-text">
+  <h2>Welcome to My Blog!</h2>
+  <p>Enjoy reading the latest posts and updates below.</p>
+</div>
+
+<div class="post-feed">
+  {% for post in site.posts %}
+    <article>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
+    </article>
+  {% endfor %}
+</div>
