@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-date: 2025-02-09 10:18:42 -0800
-categories: jekyll update
+title: Hello
+date: 2025-02-13 10:18:42 -0800
+categories: life
 ---
 Testing this to see if it updates! You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common 
 
