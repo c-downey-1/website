@@ -37,7 +37,7 @@ navigation:
 permalink: /blog/:title/
 
 # Build settings
-theme: minima
+theme: null
 plugins:
   - jekyll-feed
 
